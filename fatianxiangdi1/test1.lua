@@ -108,7 +108,6 @@ confirmBtn.TextScaled = false
 confirmBtn.Parent = panel
 confirmBtn.AutoButtonColor = false
 
--- 新增“by：kismile”文字标签
 local creditLabel = Instance.new("TextLabel")
 creditLabel.Size = UDim2.new(1, 0, 0, 15)
 creditLabel.Position = UDim2.new(0, 0, 0, 125) -- 位于自定义区域下方
